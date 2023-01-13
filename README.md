@@ -18,7 +18,7 @@
 
 * `git clone https://github.com/Demon-Cyber-404/Old-Crack.git`
 
-* `cd Old-Crack
+* `cd Old-Crack`
 
 #### > Run : `python Old-Crack.py`
 
