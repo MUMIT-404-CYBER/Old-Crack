@@ -22,7 +22,7 @@
 
 * `git clone https://github.com/MUMIT-404-CYBER/Old-Crack.git`
 
-* `cd RANDOM-CRACK`
+* `cd Old-Crack`
 
 * `python old.py`
 
